@@ -1,0 +1,84 @@
+```
+# Android
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# NDK
+obj/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.jar
+*.class
+*.so
+*.dex
+
+# Generated files
+gen/
+out/
+
+# Debug
+debug/
+debug.keystore
+*.keystore
+
+# Coverage
+coverage/
+*.ec
+
+# APK Analyser temp files
+.apk-analyzer/
+
+# Bundle analyser temp files
+.bundles/
+
+# Firebase test lab temp files
+*.drcov
+
+# Proguard
+proguard/
+
+# D8/R8
+*.des
+
+# Detekt
+.detekt/
+
+# Compose Multiplatform
+.compose/
+
+# Temporary folders for code compilation
+tmp/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+```
